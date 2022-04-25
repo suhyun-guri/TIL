@@ -46,7 +46,7 @@ INNER JOIN score USING(student_id);
 SELECT * FROM TABLE1 NATURAL JOIN TABLE2;
 -- 추가로 ON 조건절이나 USING 조건절, WHERE절에서 JOIN 조건 정의 불가
 ```
-<img src='../img/[SQL]JOIN.PNG' alt='natural_join'>
+<img src='../img/[SQL]JOIN_elice.PNG' alt='natural_join'>
 
 ### 2.4 CROSS JOIN 
 - JOIN 조건이 없는 경우 생길 수 있는 **모든 데이터의 조합을 조회**
@@ -57,7 +57,7 @@ SELECT * FROM student
 ```
 > INNER JOIN은 ON 또는 USING이 반드시 있어야 한다. <br> 만약 없다면 CROSS JOIN으로 간주된다.
 
-<img src='../img/[SQL]JOIN2.PNG' alt='cross_join'>
+<img src='../img/[SQL]JOIN2_elice.PNG' alt='cross_join'>
 
 ### 2.5 OUTER JOIN 
 - 두 개의 테이블 간에 교집합을 조회하고 한쪽 테이블에만 있는 데이터도 포함시켜서 조회한다.
