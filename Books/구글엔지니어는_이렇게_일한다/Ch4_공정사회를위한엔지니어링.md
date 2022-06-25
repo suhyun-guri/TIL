@@ -1,5 +1,3 @@
-<img src='/Users/myksh0903/Desktop/SuhyunKim/TIL/img/구글엔지니어는이렇게일한다_표지.jpeg' width=300px>
-<br></br>
 <I style='color:gray;'> -- 본 내용은 구글 엔지니어는 이렇게 일한다(한빛미디어)를 요약한 내용입니다. -- </I>
 
 # Ch4. 공정 사회를 위한 엔지니어링
